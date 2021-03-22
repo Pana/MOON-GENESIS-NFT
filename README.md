@@ -37,3 +37,8 @@ node scripts/testnet/gs.deploy.js
 ```
 node script/testnet/gs.create.js
 ```
+
+
+## 发布Mainnet
+
+`按testnet的脚本复制下`
