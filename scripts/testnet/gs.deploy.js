@@ -4,7 +4,7 @@ let json_rpc_url = env.json_rpc;
 let PRIVATE_KEY = env.adminPrivateKey;
 let chainId = env.chainId;
 
-let devAddr = '0x1AB7113404867b5F294113FE4959D9eC2eCAaA12';
+let devAddr = '0x111..1111';
 let baseUri = 'https://nft.moonswap.fi/genesis/meta/';
 const sourceContract = require('../../build/contracts/Genesis.json');
 
