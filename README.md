@@ -1,5 +1,7 @@
 # MOON-GENESIS-NFT
 
+`ERC1155`
+
 ## start
 
 ```
